@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FDE38EB4-4532-4307-9E96-758753F0DF26}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mail", "Mail", "{6D46E41C-F6AE-45C8-897A-D917BBF59E02}"
+	ProjectSection(SolutionItems) = preProject
+		src\Mail\转发_ SABG-SH黄埔四期 初步选拔.msg = src\Mail\转发_ SABG-SH黄埔四期 初步选拔.msg
+		src\Mail\转发_ SABG上海黄埔四期火热招募.msg = src\Mail\转发_ SABG上海黄埔四期火热招募.msg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Draft", "Draft", "{95533023-8DB3-44B6-ACE9-9EF41A50268D}"
+	ProjectSection(SolutionItems) = preProject
+		src\Draft\Davy-Presentation.pptx = src\Draft\Davy-Presentation.pptx
+		src\Draft\Davy-Speech.docx = src\Draft\Davy-Speech.docx
+		src\Draft\Davy-Speech.md = src\Draft\Davy-Speech.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{853BDF11-3604-452F-8B5D-2FC2C5147A4F}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6D46E41C-F6AE-45C8-897A-D917BBF59E02} = {853BDF11-3604-452F-8B5D-2FC2C5147A4F}
+		{95533023-8DB3-44B6-ACE9-9EF41A50268D} = {853BDF11-3604-452F-8B5D-2FC2C5147A4F}
+		{853BDF11-3604-452F-8B5D-2FC2C5147A4F} = {FDE38EB4-4532-4307-9E96-758753F0DF26}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F900C22-88B9-4006-86D7-96D91D27D95B}
+	EndGlobalSection
+EndGlobal
